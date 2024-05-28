@@ -14,7 +14,7 @@ h1 {
   color: #fff;
   font-size: 4rem;
   margin-bottom: 1px;
-  margin-top: 50px;
+  margin-top: 20px;
   font-family: 'Pacifico', cursive;
 }
 
@@ -38,7 +38,7 @@ h1 {
   background: #007bff;
   color: #fff;
   border: none;
-  padding: 10px 20px; /* Restored original padding */
+  padding: 6px 12px; /* Restored original padding */
   font-size: 1.2rem; /* Restored original font size */
   border-radius: 5px;
   cursor: pointer;
@@ -50,7 +50,7 @@ h1 {
 
 .mode-buttons button.selected {
   background: #0056b3;
-  box-shadow: 0 0 10px #0056b3;
+  box-shadow: 0 0 6px #0056b3;
 }
 
 .mode-buttons button:hover {
@@ -79,7 +79,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-family: 'Baloo 2', sans-serif;
   color: #fff;
   background: rgba(0, 0, 0, 0.2);
@@ -185,7 +185,7 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-bottom: -15px;
+  margin-bottom: -20px;
 }
 
 .messed-buttons {
@@ -193,15 +193,14 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: -30px;
-  margin-top: 20px; /* Increase space between buttons and Turn Indicator */
-  margin-bottom: 15px;
+  margin-top: 0px; /* Increase space between buttons and Turn Indicator */
+  margin-bottom: 10px;
 }
 
 .switching-container {
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 button {
