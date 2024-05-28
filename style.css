@@ -14,7 +14,7 @@ h1 {
   color: #fff;
   font-size: 4rem;
   margin-bottom: 1px;
-  margin-top: 80px;
+  margin-top: 50px;
   font-family: 'Pacifico', cursive;
 }
 
@@ -61,7 +61,7 @@ h1 {
   background-color: #FFA500; /* Example color: Orange */
   color: white;
   border: none;
-  padding: 10px 20px; /* Restored original padding */
+  padding: 8px 15px; /* Restored original padding */
   cursor: pointer;
   font-size: 1.2rem; /* Restored original font size */
   border-radius: 5px;
